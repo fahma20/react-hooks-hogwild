@@ -1,0 +1,21 @@
+/* src/App.module.css */
+
+.App {
+    padding: 20px;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .gridContainer {
+    margin-top: 20px;
+  }
+  
+  .card {
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
